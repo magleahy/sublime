@@ -1,0 +1,11 @@
+// See http://www.hongkiat.com/blog/sublime-text-refresh-browser/ for file save, browser focus, browser refresh
+[  
+    {  
+        "keys": ["command+shift+r"], "command": "browser_refresh", "args": {  
+            "auto_save": true,  
+            "delay": 0.0,  
+            "activate_browser": true,  
+            "browser_name" : "Google Chrome"  
+        }  
+    }  
+] 
