@@ -3,7 +3,7 @@ Sublime Preferences
 
 For Sublime setting awesomeness these settings are very useful.
 
-Packages: 
+Packages to be installed by the package controller: 
 
 https://sublime.wbond.net/packages/Package%20Control
 https://sublime.wbond.net/packages/Better%20CoffeeScript
@@ -13,6 +13,7 @@ https://sublime.wbond.net/packages/HTML-CSS-JS%20Prettify
 https://sublime.wbond.net/packages/SublimeGit
 https://sublime.wbond.net/packages/SideBarGit
 https://sublime.wbond.net/packages/SublimeLinter
+https://github.com/sobstel/SyncedSideBar
 
 
 
