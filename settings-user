@@ -2,17 +2,23 @@
 	"auto_complete_commit_on_tab": true,
 	"auto_complete_with_fields": true,
 	"bold_folder_labels": true,
+	"draw_white_space": "all",
 	"font_face": "",
 	"font_size": 17,
 	"gpu_window_buffer": "auto",
 	"gutter": true,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
+	"ignored_packages": [
+		"Vintage"
+	],
 	"remember_open_files": true,
-	"rulers":[100],
+	"rulers": [
+		100
+	],
 	"scroll_past_end": true,
 	"show_full_path": true,
 	"tab_size": 4,
 	"tree_animation_enabled": true,
-	"trim_trailing_white_space_on_save": true,
+	"trim_trailing_white_space_on_save": true
 }
