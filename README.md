@@ -7,8 +7,6 @@ Packages to be installed by the package controller:
 
 https://sublime.wbond.net/packages/Package%20Control
 
-https://sublime.wbond.net/packages/Better%20CoffeeScript
-
 https://sublime.wbond.net/packages/Browser%20Refresh
 
 https://sublime.wbond.net/packages/Emmet
