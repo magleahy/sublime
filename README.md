@@ -27,6 +27,6 @@ https://sublime.wbond.net/packages/AutoFileName
 
 https://packagecontrol.io/packages/CodeFormatter
 
-
+https://packagecontrol.io/packages/AngularJS
 
 
