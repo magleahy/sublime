@@ -1,6 +1,6 @@
-// See http://www.hongkiat.com/blog/sublime-text-refresh-browser/ for file save, browser focus, browser refresh
 [
     {
+        // See http://www.hongkiat.com/blog/sublime-text-refresh-browser/ for file save, browser focus, browser refresh
         "keys": ["command+shift+r"],
         "command": "browser_refresh",
         "args": {
@@ -8,11 +8,18 @@
             "delay": 0.0,
             "activate_browser": true,
             "browser_name" : "Google Chrome"
-        },
+        }
+    },
+    {
         "keys": ["super+shift+l"],
         "command": "insert_snippet",
         "args": {
           "contents": "console.log('$SELECTION', $SELECTION);"
         }
+    },
+    {
+        "keys": ["super+v"],
+        "command": "paste_and_indent"
     }
+
 ]
