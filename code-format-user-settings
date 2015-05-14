@@ -1,0 +1,23 @@
+{
+    "codeformatter_js_options":
+    {
+        "preserve_newlines": true, // whether existing line breaks should be preserved,
+        "space_in_paren": true, // Add padding spaces within paren, ie. f( a, b )
+        "jslint_happy": true, // if true, then jslint-stricter mode is enforced. Example function () vs function()
+        "brace_style": "expand", // "collapse" | "expand" | "end-expand". put braces on the same line as control statements (default), or put braces on own line (Allman / ANSI style), or just put end braces on own line.
+        "keep_array_indentation": true, // keep array identation.
+        "keep_function_indentation": true, // keep function identation.
+    },
+
+
+    "codeformatter_css_options":
+    {
+        "selector_separator_newline": true, // Add new lines after selector separators
+    },
+
+    "codeformatter_html_options":
+    {
+        "preserve_newlines": true, // Preserve existing line-breaks
+        "indent_tags": "html|head|body|div|nav|ul|ol|dl|li|table|thead|tbody|tr|th|td|blockquote|select|form|option|optgroup|fieldset|legend|label|header|section|aside|footer|figure|video" // List of tags (defaults to indent) that should be reformatted. Example "div|p|li|table"
+    }
+}
