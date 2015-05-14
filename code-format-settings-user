@@ -4,11 +4,9 @@
     {
         "indent_char": " ", // Indent character
         "preserve_newlines": true, // whether existing line breaks should be preserved,
-        "space_in_paren": true, // Add padding spaces within paren, ie. f( a, b )
         "jslint_happy": true, // if true, then jslint-stricter mode is enforced. Example function () vs function()
-        "brace_style": "expand", // "collapse" | "expand" | "end-expand". put braces on the same line as control statements (default), or put braces on own line (Allman / ANSI style), or just put end braces on own line.
+        "brace_style": "end-expand", // "collapse" | "expand" | "end-expand". put braces on the same line as control statements (default), or put braces on own line (Allman / ANSI style), or just put end braces on own line.
         "keep_array_indentation": true, // keep array identation.
-        "keep_function_indentation": true, // keep function identation.
         "break_chained_methods": true // Break chained method calls across subsequent lines
     },
 
@@ -16,12 +14,12 @@
     "codeformatter_css_options":
     {
         "indent_char": " ", // Indentation character
-        "selector_separator_newline": true, // Add new lines after selector separators
+        "selector_separator_newline": true // Add new lines after selector separators
     },
 
     "codeformatter_html_options":
     {
         "indent_char": " ", // Indentation character
-        "preserve_newlines": true, // Preserve existing line-breaks
+        "preserve_newlines": true // Preserve existing line-breaks
     }
 }
