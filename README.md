@@ -25,6 +25,8 @@ https://sublime.wbond.net/packages/JSHint%20Gutter
 
 https://sublime.wbond.net/packages/AutoFileName
 
+https://packagecontrol.io/packages/CodeFormatter
+
 
 
 
