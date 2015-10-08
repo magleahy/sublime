@@ -29,4 +29,5 @@ https://packagecontrol.io/packages/CodeFormatter
 
 https://packagecontrol.io/packages/AngularJS
 
+https://packagecontrol.io/packages/Color%20Highlighter
 
