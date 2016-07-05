@@ -21,3 +21,5 @@ https://github.com/sobstel/SyncedSideBar
 
 https://packagecontrol.io/packages/Color%20Highlighter
 
+https://packagecontrol.io/packages/TypeScript
+
