@@ -7,6 +7,8 @@ Packages to be installed by the package controller:
 
 https://sublime.wbond.net/packages/Package%20Control
 
+https://packagecontrol.io/packages/Boxy%20Theme
+
 https://packagecontrol.io/packages/AngularJS
 
 https://sublime.wbond.net/packages/HTML-CSS-JS%20Prettify
