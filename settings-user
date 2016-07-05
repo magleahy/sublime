@@ -2,6 +2,7 @@
 	"auto_complete_commit_on_tab": true,
 	"auto_complete_with_fields": true,
 	"bold_folder_labels": true,
+	"color_scheme": "Packages/Boxy Theme/schemes/Boxy Tomorrow.tmTheme",
 	"draw_white_space": "all",
 	"find_selected_text": true,
 	"font_face": "Andale Mono",
@@ -22,6 +23,7 @@
 	"scroll_past_end": true,
 	"show_full_path": true,
 	"tab_size": 4,
+	"theme": "Boxy Tomorrow.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"tree_animation_enabled": true,
 	"trim_trailing_white_space_on_save": true
