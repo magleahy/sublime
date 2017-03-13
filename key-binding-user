@@ -1,6 +1,6 @@
+// See http://www.hongkiat.com/blog/sublime-text-refresh-browser/ for file save, browser focus, browser refresh
 [
     {
-        // See http://www.hongkiat.com/blog/sublime-text-refresh-browser/ for file save, browser focus, browser refresh
         "keys": ["command+shift+r"],
         "command": "browser_refresh",
         "args": {
@@ -11,6 +11,13 @@
         }
     },
     {
+        "keys": ["super+shift+i"],
+        "command": "insert_snippet",
+        "args": {
+          "contents": "// tslint:disable-next-line no-console"
+        }
+    },
+    {
         "keys": ["super+shift+l"],
         "command": "insert_snippet",
         "args": {
@@ -18,8 +25,7 @@
         }
     },
     {
-        "keys": ["super+v"],
-        "command": "paste_and_indent"
+        "keys": ["super+shift+m"],
+        "command": "goto_definition"
     }
-
 ]
