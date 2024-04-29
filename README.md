@@ -7,15 +7,13 @@ For Sublime setting awesomeness these settings are very useful.
 
 Packages to be installed by the package controller: 
 
-[[https://sublime.wbond.net/packages/Package%20Control](https://packagecontrol.io/)](https://packagecontrol.io/installation)
+[https://sublime.wbond.net/packages/Package%20Control](https://packagecontrol.io/installation)
 
-[https://packagecontrol.io/packages/AngularJS](https://packagecontrol.io/search/angularJs)
+https://packagecontrol.io/packages/AngularJS
 
-[https://packagecontrol.io/packages/Emmet]
-(https://packagecontrol.io/packages/Emmet)
+https://packagecontrol.io/packages/Emmet
 
-[https://packagecontrol.io/packages/Git]
-(https://packagecontrol.io/packages/Git)
+https://packagecontrol.io/packages/Git
 
 [https://packagecontrol.io/packages/Color%20Highlighter](https://packagecontrol.io/packages/Color%20Highlight)
 
